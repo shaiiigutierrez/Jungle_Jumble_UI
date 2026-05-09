@@ -12,4 +12,4 @@ The project focuses on creating an engaging and user-friendly interface using Fi
 
 ## Figma Design
 
-[Jungle Jumble UI](https://www.figma.com/design/Yir6nSukMhLZdsVHtii8Ti/Jungle-Jumble-UI?node-id=0-1&t=EM1xeT3sBmt2CT0h-1)
+[Jungle Jumble UI](https://www.figma.com/proto/Yir6nSukMhLZdsVHtii8Ti/Jungle-Jumble-UI?node-id=56-47&t=OUydEf5yD3B7yxKH-1)
